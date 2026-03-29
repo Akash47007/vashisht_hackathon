@@ -138,6 +138,11 @@ After starting the app:
 ## Video Demo
 [Link to demo video walkthrough](https://drive.google.com/file/d/1oVT9E_r9-ODT5-JNjCfv1e0ss-uLHF9U/view?usp=sharing)
 
+## Deployed Website
+https://vashisht-hackathon-frontend.vercel.app/
+
+note that the backend is deployed in a free version of render and takes around 50 to 5 minutes to wake up, so if you see a blank page or errors on the frontend, please wait for a few minutes and refresh the page.
+
 ## Future Improvements
 - Wire backend to PostgreSQL persistence layer.
 - Add protected-route middleware and stronger auth hardening.
