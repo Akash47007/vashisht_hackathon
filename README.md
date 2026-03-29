@@ -136,7 +136,7 @@ After starting the app:
   - `/withdrawals`
 
 ## Video Demo
-[Link to demo video walkthrough](https://www.loom.com/share your-demo-video-link)
+[Link to demo video walkthrough](https://drive.google.com/file/d/1oVT9E_r9-ODT5-JNjCfv1e0ss-uLHF9U/view?usp=sharing)
 
 ## Future Improvements
 - Wire backend to PostgreSQL persistence layer.
