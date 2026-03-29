@@ -14,9 +14,12 @@ This leads to delayed investing, lower long-term corpus growth, and higher risk 
 ## Solution Overview
 FutureYou solves the awareness-to-action gap with an end-to-end behavior-change system. There are many solutions that provide investing solutions and other services, but none make it easy and intutive for the Gen Z. 
 FutureYou focuses on simplifying the complex world of retirement planning into a tangible, actionable, and consistent experience that builds financial literacy and confidence over time.
+
 We do not aim provide high level and complex investment and finance management, but rather a starting point with gamified experience to make it appealing for the Gen Z and make them start planning for their future.
 We intentionally made the project simple and easy to use, with a focus on the core features that can drive behavior change, rather than trying to be a comprehensive financial tool from day one.
+
 We want to create a product that is approachable and engaging for users who may be new to financial planning, while still providing valuable insights and actionable steps to help them start their retirement planning journey. 
+
 - Tangibility: retirement snapshot with required vs projected corpus and confidence score.
 - Actionability: contribution setup, recurring behavior simulation, and what-if planning.
 - Consistency: streaks, nudges, milestones, and guided next actions.
